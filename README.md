@@ -13,6 +13,7 @@ This repository houses a simple calculator designed to perform fundamental mathe
 Features
 --------------------------------
 
-User-Friendly Interface: The calculator provides a clean and intuitive interface for performing mathematical operations effortlessly.
-Multiple Operations: Perform addition, subtraction, multiplication, and division seamlessly using this simple calculator.
+- User-Friendly Interface: The calculator provides a clean and intuitive interface for performing mathematical operations effortlessly.
+
+- Multiple Operations: Perform addition, subtraction, multiplication, and division seamlessly using this simple calculator.
 
