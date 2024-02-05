@@ -1,7 +1,7 @@
 Simple Calculator
 -----------------------------------
 
-This repository houses a basic calculator designed to perform fundamental mathematical operations, including addition, multiplication, subtraction, and division. The calculator is developed using a combination of HTML, CSS, and JavaScript, making it accessible and easy to use for anyone with a web browser.
+This repository houses a simple calculator designed to perform fundamental mathematical operations, including addition, multiplication, subtraction, and division. The calculator is developed using a combination of HTML, CSS, and JavaScript, making it accessible and easy to use for anyone with a web browser.
 
   Files
 -----------------------------------
